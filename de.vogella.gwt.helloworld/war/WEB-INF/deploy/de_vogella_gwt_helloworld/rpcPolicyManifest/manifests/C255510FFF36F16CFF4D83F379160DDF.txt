@@ -1,0 +1,2 @@
+serviceClass: de.vogella.gwt.helloworld.client.HelloService
+path: E5F536D36CA791D13AFF0AFAC5F52F39.gwt.rpc
